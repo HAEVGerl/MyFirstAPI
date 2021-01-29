@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1Vn90e9tceadZcXTErnnkTy0eYqxRPs6/CDZPuf345IKbG/HmG65EsWJJkqkzazdoaD30hRqMEmSLQ4lWlqEQ==",
+  "success": true,
+  "projectFilePath": "C:\\DevSpielwiese\\APIAusprobierer\\APIAusprobierer\\APIAusprobierer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lina.gerlitz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

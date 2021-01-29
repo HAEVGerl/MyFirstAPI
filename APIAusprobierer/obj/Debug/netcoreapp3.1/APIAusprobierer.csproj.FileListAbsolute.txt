@@ -1,0 +1,13 @@
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.exe
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.deps.json
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.runtimeconfig.json
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.runtimeconfig.dev.json
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.dll
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\bin\Debug\netcoreapp3.1\APIAusprobierer.pdb
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.csprojAssemblyReference.cache
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.AssemblyInfoInputs.cache
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.AssemblyInfo.cs
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.csproj.CoreCompileInputs.cache
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.dll
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.pdb
+C:\DevSpielwiese\APIAusprobierer\APIAusprobierer\obj\Debug\netcoreapp3.1\APIAusprobierer.genruntimeconfig.cache
